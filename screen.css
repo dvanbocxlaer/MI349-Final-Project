@@ -5,7 +5,6 @@ header {
   list-style-position: inside;
   text-align: center;
   top: 0;
-  text-decoration: none;
   padding: 15px;
 }
 
@@ -23,6 +22,7 @@ h1 {
   font-size: 3em;
   margin: 0;
   color: #F77F00;
+  text-decoration: none;
 }
 
 h2 {
