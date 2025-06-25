@@ -1,5 +1,9 @@
 /* Add screen styles below */
 
+h2 {
+  color: #F77F00;
+}
+
 #home-list {
   display: flex;
   flex-direction: column;
