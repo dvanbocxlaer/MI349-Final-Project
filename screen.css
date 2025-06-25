@@ -33,6 +33,7 @@
   color: #F77F00;
   font-size: 50px;
   text-align: center;
+  text-shadow: -1px 0px #003049, 0 1px #003049, 1px 0 #003049, 0 -1px #003049;
   padding: 10px 20px;
   z-index: 10;
 }
