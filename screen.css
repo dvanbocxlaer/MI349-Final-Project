@@ -4,8 +4,8 @@ header {
   color: #293241;
   list-style-position: inside;
   text-align: center;
-  position: sticky;
   top: 0;
+  text-decoration: none;
   padding: 15px;
 }
 
