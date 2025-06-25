@@ -1,7 +1,7 @@
 /* Add screen styles below */
 header {
-  background-color: #98c1d9;
-  color: #293241;
+  background-color: #003049;
+  color: #F77F00;
   list-style-position: inside;
   text-align: center;
   top: 0;
@@ -13,9 +13,9 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 40px;
   padding: 40px;
-  color: #293241;
-  border-top: 10px solid #293241;
-  background: #e0fbfc;
+  color: #003049;
+  border-top: 10px solid #D62828;
+  background: #EAE2B7;
 }
 
 h1 {
