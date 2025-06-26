@@ -36,8 +36,7 @@ h2 {
 }
 
 article {
-  display: flex;
-  flex-direction: column;
+  text-align: center;
   padding: 20px;
   margin: 20px;
   border-top: #F77F00 1px solid;
