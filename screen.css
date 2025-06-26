@@ -34,10 +34,6 @@ h2 {
   color: #F77F00;
 }
 
-#logo-container {
-  display: flex;
-}
-
 #home-list {
   display: flex;
   flex-direction: column;
