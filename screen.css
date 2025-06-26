@@ -36,7 +36,6 @@ h2 {
 
 #logo-container {
   display: flex;
-  justify-content: left;
 }
 
 #home-list {
