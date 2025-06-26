@@ -22,6 +22,7 @@ h1 {
   font-size: 7em;
   margin: 0;
   color: #F77F00;
+  text-shadow: -2px 0px #D62828, 0 2px #D62828, 2px 0 #D62828, 0 -2px #D62828;
 }
 
 h1 a {
