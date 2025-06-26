@@ -35,6 +35,10 @@ h2 {
   color: #F77F00;
 }
 
+h3 {
+  font-size: 2em;
+}
+
 article {
   text-align: center;
   padding: 20px;
