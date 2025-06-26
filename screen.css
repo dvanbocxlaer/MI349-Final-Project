@@ -97,6 +97,9 @@ section {
   width: 600px;
   height: 400px;
   border: 1px solid #F77F00;
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
 }
 
 .article-image img {
