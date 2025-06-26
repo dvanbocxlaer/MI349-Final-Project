@@ -36,9 +36,11 @@ h2 {
 }
 
 article {
-    padding: 20px;
-    margin: 20px;
-    border-top: #F77F00 1px solid;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  margin: 20px;
+  border-top: #F77F00 1px solid;
 }
 
 #home-list {
